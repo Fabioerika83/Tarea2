@@ -1,0 +1,12 @@
+body{
+	background-color: orange;
+	margin: 0 auto;
+	width: 700px;
+}
+.par{
+	color: green;
+}
+ol{
+	font-family: arial;
+	font-size: 20px;
+}
